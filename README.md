@@ -7,6 +7,8 @@ Code repository for quantum error correction with non-Markovian Feedback on the 
 - [Installation](#installation)
 - [License](#license)
 - [Citation](#citation)
+- [References](#references)
+
 
 ## Description
 

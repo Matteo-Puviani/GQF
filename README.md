@@ -67,3 +67,5 @@ The code in this repository is released under the MIT License.
 [1] Campagne-Ibarcq, P., Eickbusch, A., Touzard, S. et al., "Quantum error correction of a qubit encoded in grid states of an oscillator", Nature 584, 368–372 (2020), https://doi.org/10.1038/s41586-020-2603-3
 
 [2] Sivak, V.V., Eickbusch, A., Royer, B. et al., "Real-time quantum error correction beyond break-even", Nature 616, 50–55 (2023), https://doi.org/10.1038/s41586-023-05782-6
+
+[3] Riccardo Porotti, Vittorio Peano, and Florian Marquardt, "Gradient-Ascent Pulse Engineering with Feedback", PRX Quantum 4, 030305 (2023), https://link.aps.org/doi/10.1103/PRXQuantum.4.030305

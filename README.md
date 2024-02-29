@@ -12,6 +12,8 @@ Code repository for quantum error correction with non-Markovian Feedback on the 
 
 The library can be used to train a recurrent or a feed-forward neural network to suggest the parameters of the gate sequence of the small-BIG-small 
 
+<img src="images/scheme_GKP.png" alt="overview" width="800"/>
+
 
 ## Installation
 

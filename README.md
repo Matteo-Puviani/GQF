@@ -35,8 +35,8 @@ The protocol used is the so-called small-BIG-small (sBs) with measurements as in
 1. Clone the repository
 
 ``` bash
-git clone https://github.com/Matteo-Puviani/GKPQECFG.git
-cd GKPQECFG
+git clone https://github.com/Matteo-Puviani/GQF.git
+cd GQF
 ```
 
 2. Install requirements

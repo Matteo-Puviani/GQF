@@ -3,14 +3,15 @@
 
 Code repository for quantum error correction with non-Markovian Feedback on the Gottesmann-Kitaev-Preskill code with model-based Feedbakc-GRAPE approach.
 
-- [Description](#description)
+- [Overview](#overview)
 - [Installation](#installation)
+- [Description](#description)
 - [License](#license)
 - [Citation](#citation)
 - [References](#references)
 
 
-## Description
+## Overview
 
 The library can be used to train a neural network to suggest the parameters of the gate sequence of the small-BIG-small protocol [1] for quantum error correction on a physical GKP code. It is possible to use either a feed-forward neural network, or a recurrent neural network: this latter provides the non-Markovian feedback which is the main result of our work. 
 
@@ -43,6 +44,17 @@ cd GQF
 ``` bash
 pip install -r requirements.txt
 ```
+
+## Description
+
+The codes are locate inside the GQF folder:
+
+- runner.py is used to run the code, such as for training or evaluating the neural network agent 
+- GKP_environment.py creates the environment for the GKP code, including the hardware simulator
+- feedback_GRAPE.py implements the Feedback-GRAPE protocol with gradient ascent 
+- mesolve.py solves the Lindblad master equation for the noisy time evolution of the system
+- operators.py contains the operators (e.g.: gates) used in the environment
+- qutils.py contains some utility functions 
 
 
 ## License

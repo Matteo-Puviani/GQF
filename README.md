@@ -1,7 +1,7 @@
-# GQF - Gottesmann-Kitaev-Preskill code Quantum error correction with Feedback-GRAPE.
+# GQF - Non-Markovian feedback for quantum error correction of the GKP code.
 [![arXiv](https://img.shields.io/badge/arXiv-2312.07391-b31b1b.svg)](https://arxiv.org/abs/2312.07391)
 
-Code repository for quantum error correction with non-Markovian Feedback on the Gottesmann-Kitaev-Preskill code with model-based Feedbakc-GRAPE approach.
+Code repository for quantum error correction with non-Markovian Feedback on the Gottesmann-Kitaev-Preskill code with model-based Feedback-GRAPE approach.
 
 - [Overview](#overview)
 - [Installation](#installation)

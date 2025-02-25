@@ -64,15 +64,19 @@ The code in this repository is released under the MIT License.
 
 ## Citation
 ``` bib
-@article{puviani_gkp_2023,
-  title={Boosting the Gottesman-Kitaev-Preskill quantum error correction with non-Markovian feedback},
-  author={Puviani, Matteo and Borah, Sangkha and Zen, Remmy and Olle, Jan and Marquardt, Florian},
-  url = {http://arxiv.org/abs/2312.07391},
-  journal={arXiv preprint arXiv:2312.07391},
-  publisher = {arXiv},
-  month = dec,
-  year = {2023},
-  note = {arXiv:2312.07391 [quant-ph]},
+@article{PhysRevLett.134.020601,
+  title = {Non-Markovian Feedback for Optimized Quantum Error Correction},
+  author = {Puviani, Matteo and Borah, Sangkha and Zen, Remmy and Olle, Jan and Marquardt, Florian},
+  journal = {Phys. Rev. Lett.},
+  volume = {134},
+  issue = {2},
+  pages = {020601},
+  numpages = {6},
+  year = {2025},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.134.020601},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.134.020601}
 }
 ```
 

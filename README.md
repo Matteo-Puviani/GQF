@@ -54,7 +54,8 @@ The codes are locate inside the GQF folder:
 - feedback_GRAPE.py implements the Feedback-GRAPE protocol with gradient ascent 
 - mesolve.py solves the Lindblad master equation for the noisy time evolution of the system
 - operators.py contains the operators (e.g.: gates) used in the environment
-- qutils.py contains some utility functions 
+- qutils.py contains some utility functions
+- states.py contains the functions to create useful states in the cavity-transmon space, including the GKP state itself
 
 
 ## License
